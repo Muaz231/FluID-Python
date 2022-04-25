@@ -1,6 +1,6 @@
 import numpy as np
 
-NUM_TX = 1 # tx order tx0,tx2,tx1, face to the board (left,right,upper)  -- Only using tx0 for FLUID-ID Project
+NUM_TX = 2 # tx order tx0,tx2,tx1, face to the board (left,right,upper)  -- Only using tx0 for FLUID-ID Project
 NUM_RX = 4
 
 START_FREQ = 77         # OLD CONFIGURATION FOR 256 SAMPLES/CHIRP
